@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lrucache", "lrucache\lrucache.csproj", "{C9C4FE52-9FA4-4B4E-A6E2-25E3A4DD36D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kneedeepio.lrucache", "kneedeepio.lrucache\kneedeepio.lrucache.csproj", "{C9C4FE52-9FA4-4B4E-A6E2-25E3A4DD36D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
